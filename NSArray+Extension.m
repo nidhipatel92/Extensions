@@ -3,8 +3,7 @@
 //  ExtensionObjC
 //
 //  Created by Nidhi on 8/21/17.
-//  Copyright © 2017 CreoleStudios. All rights reserved.
-//
+
 
 #import "NSArray+Extension.h"
 
